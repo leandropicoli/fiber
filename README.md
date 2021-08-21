@@ -1,4 +1,5 @@
 # fiber
+This is a front end challenge from [Codewell](https://www.codewell.cc/challenges/608a7e639691700015db16d1)
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
